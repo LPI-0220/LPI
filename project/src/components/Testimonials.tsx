@@ -16,7 +16,7 @@ const Testimonials = () => {
       image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=688&q=80"
     },
     {
-      quote: "The team at Linear Prism truly cares about creating affordable housing solutions. They transformed neglected properties into beautiful homes that locals families can actually afford.",
+      quote: "The team at Linear Prism truly cares about creating affordable housing solutions. They transform neglected properties into beautiful homes that local families can actually afford.",
       name: "Teresa Hardy",
       title: "Community Advocate",
       image: "https://i.imgur.com/aoLaEBj.jpg"
