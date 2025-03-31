@@ -5,21 +5,21 @@ const Properties = () => {
     {
       image: "https://i.imgur.com/IpWLtOk.jpg",
       title: "Renovated Family Home",
-      location: "Decatur, Atlanta",
+      location: "West Cobb",
       price: "$350K",
       type: "Residential"
     },
     {
       image: "https://i.imgur.com/8iURSNZ.jpg",
-      title: "Townhouse",
-      location: "Midtown, Atlanta",
+      title: "Renovated Townhouse",
+      location: "South Cobb",
       price: "$210K",
       type: "Residential"
     },
     {
       image: "https://i.imgur.com/O05p6o5.jpg",
-      title: "Renovated Family Home",
-      location: "East Atlanta Village",
+      title: "Remodeled Family Home",
+      location: "East Paulding",
       price: "$400K",
       type: "Residential"
     }
