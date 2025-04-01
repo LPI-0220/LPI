@@ -57,7 +57,7 @@ const Testimonials = () => {
                 <img 
                   src={testimonials[currentIndex].image} 
                   alt={testimonials[currentIndex].name} 
-                  className="w-16 h-16 rounded-full object-cover mr-4 mt-2"
+                  className="w-16 h-16 rounded-full object-cover object-top mr-4 mt-2" 
                 />
                 <div>
                   <p className="font-bold text-lg">{testimonials[currentIndex].name}</p>
