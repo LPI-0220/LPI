@@ -45,7 +45,7 @@ const Testimonials = () => {
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-4xl font-bold mb-4">What Our Clients Say</h2>
           <p className="text-xl text-blue-100 max-w-3xl mx-auto">
-            Hear from homeowners who have found their dream homes through Linear Prism Investments.
+            Hear what people are saying about Linear Prism Investments.
           </p>
         </div>
         
