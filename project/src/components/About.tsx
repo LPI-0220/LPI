@@ -24,7 +24,7 @@ const About = () => {
               prices and limited options created significant barriers to ownership.
             </p>
             <p className="text-lg text-gray-600 mb-6">
-              Rather than building new homes, he identified a pioneering solution—renovating existing inventory to provide affordable, high-quality housing options. From the outset, his vision has been to create an alternative path to homeownership, empowering individuals and families to achieve stability and equity without compromising on quality or accessibility.
+              Rather than building new homes, he identified a forward-looking solution—renovating existing inventory to provide affordable, high-quality housing options. From the outset, his vision has been to create an alternative path to homeownership, empowering individuals and families to achieve stability and equity without compromising on quality or accessibility.
             </p>
             <p className="text-lg text-gray-600 mb-6">
               Since our founding, we've been dedicated to revitalizing communities by transforming underutilized properties into inviting, functional homes. Each renovation reflects our commitment to craftsmanship, affordability, and long-term value, making homeownership a reality for those who may have otherwise been priced out of the market.
