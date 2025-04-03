@@ -29,7 +29,7 @@ const Hero = () => {
               Making Homeownership Accessible in Atlanta
             </h1>
             <p className="text-xl text-gray-200 mb-8 max-w-3xl">
-              Linear Prism Investments, LLC specializes in renovating existing properties into quality, affordable homes, creating pathways to homeownership for Atlanta families.
+              Linear Prism Investments, LLC specializes in renovating existing properties into quality, affordable homes, creating pathways to homeownership for metro Atlanta families.
             </p>
             <div className="flex flex-col sm:flex-row gap-6">
               <a 
